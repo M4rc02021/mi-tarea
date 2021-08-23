@@ -1,0 +1,41 @@
+body {
+  padding-left: 11em;
+  font-family: Arial,"Arial",Times,serif;
+  color: black;
+  background-color: #99ffff;
+  background-image: url(imagenes/10693113-una-bola-de-deporte-del-f%C3%BAtbol-en-un-fondo-azul-y-verde-con-l%C3%ADneas-de-flores-y-remolinos-ideal-para-.jpg);
+  background-position: right top;
+  background-attachment: fixed;
+}
+ul.navbar {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  position: absolute;
+  top: 2em;
+  left: 1em;
+  width: 9em;
+}
+h1 {
+  font-family: Arial,sans-serif;
+}
+ul.navbar li {
+  border-right: 1em solid black;
+  margin: 0.5em 0;
+  padding: 0.3em;
+  background: white none repeat scroll 0% 50%;
+}
+ul.navbar a {
+  text-decoration: none;
+}
+a:link {
+  color: green;
+}
+a:visited {
+  color: Blue;
+}
+address {
+  border-top: thin dotted;
+  margin-top: 1em;
+  padding-top: 1em;
+}
